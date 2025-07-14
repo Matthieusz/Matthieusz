@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋 <br>My name is Mateusz and I'm an aspiring full stack developer, from Poznań, Poland.</h2>
+<h2 align="center">Hi👋 <br>My name is Mateusz and I'm an aspiring full stack developer from Poznań, Poland.</h2>
 
 ###
 
